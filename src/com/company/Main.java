@@ -19,8 +19,7 @@ public class Main {
         int h1 = 0;
         int h2 = 0;
 
-        System.out.println(hand1);
-        System.out.println(hand2);
+        System.out.println("Hand 1: " + hand1 + "\nHand 2: " + hand2);
 
         for (Animals a: hand1)
         {
